@@ -1,0 +1,7 @@
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
+
+tienda:
+    resource: "@TiendaBundle/Controller/"
+    type:     annotation
